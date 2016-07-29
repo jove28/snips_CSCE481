@@ -1,1 +1,1 @@
-# snips_CSCE481
+# snips
